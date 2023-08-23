@@ -2,72 +2,14 @@
   "id" : 1,
   "name" : "Name",
   "description" : "Description",
-  "lastModifiedDate" : "2023-08-23T18:57:23Z",
+  "lastModifiedDate" : "2023-08-23T20:27:10Z",
   "lastModifiedAgent" : "structurizr-javascript",
   "properties" : {
-    "structurizr.dsl" : "d29ya3NwYWNlIHsKCiAgICBtb2RlbCB7CiAgICAgICAgdXNlckFkbWluc3RyYXRvciA9IHBlcnNvbiAiVXNlckFkbWluc3RyYXRvciIgIkFkbWluc3RyYXRvciBVc2VyInsKCiAgICAgICAgfQoKICAgICAgICBldmVudFBhcnRpY2lwYW50VXNlciA9IHBlcnNvbiAiRXZlbnRQYXJ0aWNpcGFudFVzZXIiICJFdmVudCBwYXJ0aWNpcGFudCBVc2VyInsKCiAgICAgICAgfQogICAgICAgIHNvZnR3YXJlU3lzdGVtID0gc29mdHdhcmVTeXN0ZW0gIkNpdHkgRXZlbnQgTm90aWZpY2F0aW9uIFN5c3RlbSIgIlJlZ2lzdHJhdGlvbiBhbmQgbm90aWZpY2F0aW9uIG9mIEV2ZW50cyBpbiB0aGUgQ2l0eSIgewogICAgICAgIAogICAgICAgICAgICBjb25zb2xlYXBwID0gY29udGFpbmVyICJDb25zb2xlIEFwcGxpY2F0aW9uIiB7CiAgICAgICAgICAgICAgICB1c2VyID0gY29tcG9uZW50ICJVc2VyInsKICAgICAgICAgICAgICAgICAgICBldmVudFBhcnRpY2lwYW50VXNlciAtPiB0aGlzICJFdmVudFBhcnRpY2lwYW50VXNlciIKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGV2ZW50ID0gY29tcG9uZW50ICJFdmVudCJ7CiAgICAgICAgICAgICAgICAgICAgdXNlckFkbWluc3RyYXRvciAtPiB0aGlzICJVc2VyQWRtaW5zdHJhdG9yIgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgY2F0ZWdvcnkgPSBjb21wb25lbnQgIkNhdGVnb3J5InsKICAgICAgICAgICAgICAgICAgICB1c2VyQWRtaW5zdHJhdG9yIC0+IHRoaXMgIlVzZXJBZG1pbnN0cmF0b3IiCiAgICAgICAgICAgICAgICB9IAogICAgICAgICAgICAgICAgbm90aWZpY2F0aW9uID0gY29tcG9uZW50ICJOb3RpZmljYXRpb24iewogICAgICAgICAgICAgICAgICAgIHVzZXJBZG1pbnN0cmF0b3IgLT4gdGhpcyAiVXNlckFkbWluc3RyYXRvciIKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgY2l0eSA9IGNvbXBvbmVudCAiQ2l0eSIgIlBvcnRvIEFsZWdyZSIgewogICAgICAgICAgICAgICAgICAgIHByb3BlcnRpZXMgewogICAgICAgICAgICAgICAgICAgICAgICBuYW1lICJQb3J0byBBbGVncmUiCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIHVzZXJBZG1pbnN0cmF0b3IgLT4gdGhpcyAiVXNlckFkbWluc3RyYXRvciIKICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgIH0KICAgICAgICAgICAgCiAgICAgICAgICAgIGRhdGFiYXNlID0gY29udGFpbmVyICJEYXRhYmFzZSIgewogICAgICAgICAgICAgICAgY29uc29sZWFwcCAtPiB0aGlzICJSZWFkcyBmcm9tIGFuZCB3cml0ZXMgdG8iCiAgICAgICAgICAgIH0KICAgICAgICB9CgoKICAgIH0KCiAgICB2aWV3cyB7CiAgICAgICAgc3lzdGVtQ29udGV4dCBzb2Z0d2FyZVN5c3RlbSB7CiAgICAgICAgICAgIGluY2x1ZGUgKgogICAgICAgICAgICBhdXRvbGF5b3V0IGxyCiAgICAgICAgfQoKICAgICAgICBjb250YWluZXIgc29mdHdhcmVTeXN0ZW0gewogICAgICAgICAgICBpbmNsdWRlICoKICAgICAgICAgICAgYXV0b2xheW91dCBscgogICAgICAgIH0KICAgICAgICAKICAgICAgICBjb21wb25lbnQgY29uc29sZWFwcCB7CiAgICAgICAgICAgIGluY2x1ZGUgKgogICAgICAgICAgICBhdXRvbGF5b3V0IGxyCiAgICAgICAgfQogICAgICAgIAogICAgICAgIHRoZW1lIGRlZmF1bHQKICAKICAgIH0KICAgIAp9Cg=="
+    "structurizr.dsl" : "d29ya3NwYWNlIHsKCiAgICBtb2RlbCB7CiAgICAgICAgYWRtaW5zdHJhdG9yVXNlciA9IHBlcnNvbiAiQWRtaW5zdHJhdG9yVXNlciIgIkFkbWluc3RyYXRvciBVc2VyInsKCiAgICAgICAgfQoKICAgICAgICBldmVudFBhcnRpY2lwYW50VXNlciA9IHBlcnNvbiAiRXZlbnRQYXJ0aWNpcGFudFVzZXIiICJFdmVudCBwYXJ0aWNpcGFudCBVc2VyInsKCiAgICAgICAgfQogICAgICAgIHNvZnR3YXJlU3lzdGVtID0gc29mdHdhcmVTeXN0ZW0gIkNpdHkgRXZlbnQgTm90aWZpY2F0aW9uIFN5c3RlbSIgIlJlZ2lzdHJhdGlvbiBhbmQgbm90aWZpY2F0aW9uIG9mIEV2ZW50cyBpbiB0aGUgQ2l0eSIgewogICAgICAgICAgICBhZG1pbnN0cmF0b3JVc2VyIC0+IHNvZnR3YXJlU3lzdGVtICJtYW5hZ2UiCiAgICAgICAgICAgIGV2ZW50UGFydGljaXBhbnRVc2VyIC0+IHNvZnR3YXJlU3lzdGVtICJ1c2VzIgogICAgICAgICAgICBjb25zb2xlYXBwID0gY29udGFpbmVyICJDb25zb2xlIEFwcGxpY2F0aW9uIiB7CiAgICAgICAgICAgICAgICBhZG1pbnN0cmF0b3JVc2VyIC0+IGNvbnNvbGVhcHAgIm1hbmFnZSIKICAgICAgICAgICAgICAgIGV2ZW50UGFydGljaXBhbnRVc2VyIC0+IGNvbnNvbGVhcHAgInVzZXMiCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIGF1dGggPSBjb21wb25lbnQgIkF1dGgiIHsKICAgICAgICAgICAgICAgICAgICBldmVudFBhcnRpY2lwYW50VXNlciAtPiB0aGlzICJhdXRoIgogICAgICAgICAgICAgICAgICAgIGFkbWluc3RyYXRvclVzZXIgLT4gdGhpcyAiYXV0aCIKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgdXNlciA9IGNvbXBvbmVudCAiVXNlciJ7CiAgICAgICAgICAgICAgICAgICAgcHJvcGVydGllcyB7CiAgICAgICAgICAgICAgICAgICAgICAgIHVzZXJuYW1lICJTdHJpbmciCiAgICAgICAgICAgICAgICAgICAgICAgIHBhc3N3b3JkICJTdHJpbmciCiAgICAgICAgICAgICAgICAgICAgICAgIGVtYWlsICJTdHJpbmciCiAgICAgICAgICAgICAgICAgICAgICAgIG5hbWUgIlN0cmluZyIKICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIGV2ZW50UGFydGljaXBhbnRVc2VyIC0+IHRoaXMgImNyZWF0ZVVzZXIiCiAgICAgICAgICAgICAgICAgICAgZXZlbnRQYXJ0aWNpcGFudFVzZXIgLT4gdGhpcyAibG9hZFVzZXIiCiAgICAgICAgICAgICAgICAgICAgZXZlbnRQYXJ0aWNpcGFudFVzZXIgLT4gdGhpcyAidXBkYXRlVXNlciIKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgZXZlbnQgPSBjb21wb25lbnQgIkV2ZW50InsKICAgICAgICAgICAgICAgICAgICBhZG1pbnN0cmF0b3JVc2VyIC0+IHRoaXMgImNyZWF0ZUV2ZW50IgogICAgICAgICAgICAgICAgICAgIGFkbWluc3RyYXRvclVzZXIgLT4gdGhpcyAidXBkYXRlRXZlbnQiCiAgICAgICAgICAgICAgICAgICAgYWRtaW5zdHJhdG9yVXNlciAtPiB0aGlzICJsb2FkRXZlbnQiCiAgICAgICAgICAgICAgICAgICAgYWRtaW5zdHJhdG9yVXNlciAtPiB0aGlzICJkZWxldGVFdmVudCIKICAgICAgICAgICAgICAgICAgICBldmVudFBhcnRpY2lwYW50VXNlciAtPiB0aGlzICJyZWdpc3RlSW5FdmVudCIKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGNhdGVnb3J5ID0gY29tcG9uZW50ICJDYXRlZ29yeSJ7CiAgICAgICAgICAgICAgICAgICAgcHJvcGVydGllcyB7CiAgICAgICAgICAgICAgICAgICAgICAgIG5hbWUgIlN0cmluZyIKICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIGFkbWluc3RyYXRvclVzZXIgLT4gdGhpcyAiY3JlYXRlQ2F0ZWdvcnkiCiAgICAgICAgICAgICAgICAgICAgYWRtaW5zdHJhdG9yVXNlciAtPiB0aGlzICJ1cGRhdGVDYXRlZ29yeSIKICAgICAgICAgICAgICAgICAgICBhZG1pbnN0cmF0b3JVc2VyIC0+IHRoaXMgImxvYWRDYXRlZ29yeSIKICAgICAgICAgICAgICAgICAgICBhZG1pbnN0cmF0b3JVc2VyIC0+IHRoaXMgImRlbGV0ZUNhdGVnb3J5IgogICAgICAgICAgICAgICAgfSAKICAgICAgICAgICAgICAgIG5vdGlmaWNhdGlvbiA9IGNvbXBvbmVudCAiTm90aWZpY2F0aW9uInsKICAgICAgICAgICAgICAgICAgICBhZG1pbnN0cmF0b3JVc2VyIC0+IHRoaXMgImNyZWF0ZU5vdGlmaWNhdGlvbiIKICAgICAgICAgICAgICAgICAgICBhZG1pbnN0cmF0b3JVc2VyIC0+IHRoaXMgInVwZGF0ZU5vdGlmaWNhdGlvbiIKICAgICAgICAgICAgICAgICAgICBhZG1pbnN0cmF0b3JVc2VyIC0+IHRoaXMgImxvYWROb3RpZmljYXRpb24iCiAgICAgICAgICAgICAgICAgICAgYWRtaW5zdHJhdG9yVXNlciAtPiB0aGlzICJkZWxldGVOb3RpZmljYXRpb24iCiAgICAgICAgICAgICAgICAgICAgZXZlbnRQYXJ0aWNpcGFudFVzZXIgLT4gdGhpcyAibGlzdGVuTm90aWZpY2F0aW9uIgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICBjaXR5ID0gY29tcG9uZW50ICJDaXR5IiAiUG9ydG8gQWxlZ3JlIiB7CiAgICAgICAgICAgICAgICAgICAgcHJvcGVydGllcyB7CiAgICAgICAgICAgICAgICAgICAgICAgIG5hbWUgIlBvcnRvIEFsZWdyZSIKICAgICAgICAgICAgICAgICAgICAgICAgdWYgIlJTIgogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBhZG1pbnN0cmF0b3JVc2VyIC0+IHRoaXMgIk1hbmFnZSBDaXR5IgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICBldmVudCAtPiBjYXRlZ29yeSAiY2F0ZWdvcnkiCiAgICAgICAgICAgICAgICBldmVudCAtPiBjaXR5ICJjaXR5IgogICAgICAgICAgICAgICAgZXZlbnQgLT4gbm90aWZpY2F0aW9uICJub3RpZmljYXRpb25zIgogICAgICAgICAgICAgICAgZXZlbnQgLT4gdXNlciAidXNlcnMiCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQogICAgICAgICAgICAKICAgICAgICAgICAgZGF0YWJhc2UgPSBjb250YWluZXIgIkRhdGFiYXNlIiB7CiAgICAgICAgICAgICAgICBjb25zb2xlYXBwIC0+IHRoaXMgIlJlYWRzIGZyb20gYW5kIHdyaXRlcyB0byIKICAgICAgICAgICAgfQoKICAgICAgICB9CgogICAgfQoKICAgIHZpZXdzIHsKICAgICAgICBzeXN0ZW1Db250ZXh0IHNvZnR3YXJlU3lzdGVtIHsKICAgICAgICAgICAgaW5jbHVkZSAqCiAgICAgICAgICAgIGF1dG9sYXlvdXQgbHIKICAgICAgICB9CgogICAgICAgIGNvbnRhaW5lciBzb2Z0d2FyZVN5c3RlbSB7CiAgICAgICAgICAgIGluY2x1ZGUgKgogICAgICAgICAgICBhdXRvbGF5b3V0IGxyCiAgICAgICAgfQogICAgICAgIAogICAgICAgIGNvbXBvbmVudCBjb25zb2xlYXBwIHsKICAgICAgICAgICAgaW5jbHVkZSAqCiAgICAgICAgICAgIGF1dG9sYXlvdXQgbHIKICAgICAgICB9CiAgICAgICAgdGhlbWUgZGVmYXVsdAogIAogICAgfQogICAgCn0K"
   },
   "configuration" : { },
   "model" : {
     "people" : [ {
-      "id" : "1",
-      "tags" : "Element,Person",
-      "properties" : {
-        "structurizr.dsl.identifier" : "useradminstrator"
-      },
-      "name" : "UserAdminstrator",
-      "description" : "Adminstrator User",
-      "relationships" : [ {
-        "id" : "12",
-        "sourceId" : "1",
-        "destinationId" : "3",
-        "description" : "UserAdminstrator",
-        "linkedRelationshipId" : "10"
-      }, {
-        "id" : "14",
-        "tags" : "Relationship",
-        "properties" : {
-          "structurizr.dsl.identifier" : "3e7ad9af-9d5a-4a06-8d04-78c16715444a"
-        },
-        "sourceId" : "1",
-        "destinationId" : "13",
-        "description" : "UserAdminstrator"
-      }, {
-        "id" : "18",
-        "tags" : "Relationship",
-        "properties" : {
-          "structurizr.dsl.identifier" : "678376c2-84e9-4e70-a3da-6d5594500071"
-        },
-        "sourceId" : "1",
-        "destinationId" : "17",
-        "description" : "UserAdminstrator"
-      }, {
-        "id" : "10",
-        "tags" : "Relationship",
-        "properties" : {
-          "structurizr.dsl.identifier" : "86e78854-dcc2-40fe-b636-44833e9a4c03"
-        },
-        "sourceId" : "1",
-        "destinationId" : "9",
-        "description" : "UserAdminstrator"
-      }, {
-        "id" : "16",
-        "tags" : "Relationship",
-        "properties" : {
-          "structurizr.dsl.identifier" : "98d86ca0-7dea-4afa-8930-61ba31c9acdc"
-        },
-        "sourceId" : "1",
-        "destinationId" : "15",
-        "description" : "UserAdminstrator"
-      }, {
-        "id" : "11",
-        "sourceId" : "1",
-        "destinationId" : "4",
-        "description" : "UserAdminstrator",
-        "linkedRelationshipId" : "10"
-      } ],
-      "location" : "Unspecified"
-    }, {
       "id" : "2",
       "tags" : "Element,Person",
       "properties" : {
@@ -76,26 +18,231 @@
       "name" : "EventParticipantUser",
       "description" : "Event participant User",
       "relationships" : [ {
-        "id" : "7",
-        "sourceId" : "2",
-        "destinationId" : "4",
-        "description" : "EventParticipantUser",
-        "linkedRelationshipId" : "6"
-      }, {
-        "id" : "8",
-        "sourceId" : "2",
-        "destinationId" : "3",
-        "description" : "EventParticipantUser",
-        "linkedRelationshipId" : "6"
-      }, {
-        "id" : "6",
+        "id" : "32",
         "tags" : "Relationship",
         "properties" : {
-          "structurizr.dsl.identifier" : "a0b8875e-ef5d-4f07-8c34-647a2489d1a6"
+          "structurizr.dsl.identifier" : "fa6934dd-d4f7-4c6a-a299-efe28a9c3c9d"
         },
         "sourceId" : "2",
-        "destinationId" : "5",
-        "description" : "EventParticipantUser"
+        "destinationId" : "27",
+        "description" : "listenNotification"
+      }, {
+        "id" : "13",
+        "tags" : "Relationship",
+        "properties" : {
+          "structurizr.dsl.identifier" : "0cb9d0e1-a32a-4a97-98c9-00e9c838da87"
+        },
+        "sourceId" : "2",
+        "destinationId" : "12",
+        "description" : "createUser"
+      }, {
+        "id" : "10",
+        "tags" : "Relationship",
+        "properties" : {
+          "structurizr.dsl.identifier" : "80cfa1c7-4fc5-43b0-b763-3f80446d5f96"
+        },
+        "sourceId" : "2",
+        "destinationId" : "9",
+        "description" : "auth"
+      }, {
+        "id" : "15",
+        "tags" : "Relationship",
+        "properties" : {
+          "structurizr.dsl.identifier" : "d28443a6-7360-4335-8170-eb0fedc87c12"
+        },
+        "sourceId" : "2",
+        "destinationId" : "12",
+        "description" : "updateUser"
+      }, {
+        "id" : "21",
+        "tags" : "Relationship",
+        "properties" : {
+          "structurizr.dsl.identifier" : "bbabda94-7755-456d-a9a7-4581ca72908d"
+        },
+        "sourceId" : "2",
+        "destinationId" : "16",
+        "description" : "registeInEvent"
+      }, {
+        "id" : "14",
+        "tags" : "Relationship",
+        "properties" : {
+          "structurizr.dsl.identifier" : "25bc20e7-f231-459a-a031-7ee84c454342"
+        },
+        "sourceId" : "2",
+        "destinationId" : "12",
+        "description" : "loadUser"
+      }, {
+        "id" : "5",
+        "tags" : "Relationship",
+        "properties" : {
+          "structurizr.dsl.identifier" : "d6e4fc10-052b-4378-b951-e2a7f225b00c"
+        },
+        "sourceId" : "2",
+        "destinationId" : "3",
+        "description" : "uses"
+      }, {
+        "id" : "8",
+        "tags" : "Relationship",
+        "properties" : {
+          "structurizr.dsl.identifier" : "84524a9a-1e83-4820-81b9-4a039f022137"
+        },
+        "sourceId" : "2",
+        "destinationId" : "6",
+        "description" : "uses"
+      } ],
+      "location" : "Unspecified"
+    }, {
+      "id" : "1",
+      "tags" : "Element,Person",
+      "properties" : {
+        "structurizr.dsl.identifier" : "adminstratoruser"
+      },
+      "name" : "AdminstratorUser",
+      "description" : "Adminstrator User",
+      "relationships" : [ {
+        "id" : "24",
+        "tags" : "Relationship",
+        "properties" : {
+          "structurizr.dsl.identifier" : "b4a93476-7130-469b-9aff-92702a9c72e5"
+        },
+        "sourceId" : "1",
+        "destinationId" : "22",
+        "description" : "updateCategory"
+      }, {
+        "id" : "20",
+        "tags" : "Relationship",
+        "properties" : {
+          "structurizr.dsl.identifier" : "bbf8bc6a-b6fe-450f-8eef-392581a2af18"
+        },
+        "sourceId" : "1",
+        "destinationId" : "16",
+        "description" : "deleteEvent"
+      }, {
+        "id" : "19",
+        "tags" : "Relationship",
+        "properties" : {
+          "structurizr.dsl.identifier" : "263c479a-46da-42fe-adc6-24d3edec046b"
+        },
+        "sourceId" : "1",
+        "destinationId" : "16",
+        "description" : "loadEvent"
+      }, {
+        "id" : "23",
+        "tags" : "Relationship",
+        "properties" : {
+          "structurizr.dsl.identifier" : "3f227a64-346b-4b16-8f91-6366a7fedee5"
+        },
+        "sourceId" : "1",
+        "destinationId" : "22",
+        "description" : "createCategory"
+      }, {
+        "id" : "29",
+        "tags" : "Relationship",
+        "properties" : {
+          "structurizr.dsl.identifier" : "ef37afb4-2090-459e-af4a-125b8815cf80"
+        },
+        "sourceId" : "1",
+        "destinationId" : "27",
+        "description" : "updateNotification"
+      }, {
+        "id" : "4",
+        "tags" : "Relationship",
+        "properties" : {
+          "structurizr.dsl.identifier" : "71dfb54d-4f95-4ac0-9fb1-75e4204a998a"
+        },
+        "sourceId" : "1",
+        "destinationId" : "3",
+        "description" : "manage"
+      }, {
+        "id" : "18",
+        "tags" : "Relationship",
+        "properties" : {
+          "structurizr.dsl.identifier" : "79e214f6-db28-41eb-88cf-eb1e708c6a0b"
+        },
+        "sourceId" : "1",
+        "destinationId" : "16",
+        "description" : "updateEvent"
+      }, {
+        "id" : "25",
+        "tags" : "Relationship",
+        "properties" : {
+          "structurizr.dsl.identifier" : "a2d7e151-ac3d-4213-91a1-407038db79ec"
+        },
+        "sourceId" : "1",
+        "destinationId" : "22",
+        "description" : "loadCategory"
+      }, {
+        "id" : "31",
+        "tags" : "Relationship",
+        "properties" : {
+          "structurizr.dsl.identifier" : "5115ab77-d981-433f-9b3b-7493c421a41e"
+        },
+        "sourceId" : "1",
+        "destinationId" : "27",
+        "description" : "deleteNotification"
+      }, {
+        "id" : "26",
+        "tags" : "Relationship",
+        "properties" : {
+          "structurizr.dsl.identifier" : "36aa7f24-a0c1-4b46-9915-9873cdbfa703"
+        },
+        "sourceId" : "1",
+        "destinationId" : "22",
+        "description" : "deleteCategory"
+      }, {
+        "id" : "17",
+        "tags" : "Relationship",
+        "properties" : {
+          "structurizr.dsl.identifier" : "8c56a2a7-dc1a-4c6a-b4bc-d273c7b783e7"
+        },
+        "sourceId" : "1",
+        "destinationId" : "16",
+        "description" : "createEvent"
+      }, {
+        "id" : "28",
+        "tags" : "Relationship",
+        "properties" : {
+          "structurizr.dsl.identifier" : "cfc8f407-7131-4df8-aa19-08c66f238fa9"
+        },
+        "sourceId" : "1",
+        "destinationId" : "27",
+        "description" : "createNotification"
+      }, {
+        "id" : "30",
+        "tags" : "Relationship",
+        "properties" : {
+          "structurizr.dsl.identifier" : "89c33e4d-12d7-422f-b82f-febcae9dba24"
+        },
+        "sourceId" : "1",
+        "destinationId" : "27",
+        "description" : "loadNotification"
+      }, {
+        "id" : "11",
+        "tags" : "Relationship",
+        "properties" : {
+          "structurizr.dsl.identifier" : "089cd210-daa6-407b-96d1-4ad632c3bc67"
+        },
+        "sourceId" : "1",
+        "destinationId" : "9",
+        "description" : "auth"
+      }, {
+        "id" : "7",
+        "tags" : "Relationship",
+        "properties" : {
+          "structurizr.dsl.identifier" : "ed2bd816-836f-4620-9ba4-cce33638a1a1"
+        },
+        "sourceId" : "1",
+        "destinationId" : "6",
+        "description" : "manage"
+      }, {
+        "id" : "34",
+        "tags" : "Relationship",
+        "properties" : {
+          "structurizr.dsl.identifier" : "651d63bd-597c-4e9a-8319-b295b78f2e6e"
+        },
+        "sourceId" : "1",
+        "destinationId" : "33",
+        "description" : "Manage City"
       } ],
       "location" : "Unspecified"
     } ],
@@ -109,48 +256,64 @@
       "description" : "Registration and notification of Events in the City",
       "location" : "Unspecified",
       "containers" : [ {
-        "id" : "19",
-        "tags" : "Element,Container",
-        "properties" : {
-          "structurizr.dsl.identifier" : "database"
-        },
-        "name" : "Database",
-        "documentation" : { }
-      }, {
-        "id" : "4",
+        "id" : "6",
         "tags" : "Element,Container",
         "properties" : {
           "structurizr.dsl.identifier" : "consoleapp"
         },
         "name" : "Console Application",
         "relationships" : [ {
-          "id" : "20",
+          "id" : "40",
           "tags" : "Relationship",
           "properties" : {
-            "structurizr.dsl.identifier" : "8287f6b2-c503-4987-84df-0ae5ed2472dc"
+            "structurizr.dsl.identifier" : "a6c4b42c-1db7-41cf-b8a4-0ad28900b7f0"
           },
-          "sourceId" : "4",
-          "destinationId" : "19",
+          "sourceId" : "6",
+          "destinationId" : "39",
           "description" : "Reads from and writes to"
         } ],
         "components" : [ {
-          "id" : "5",
+          "id" : "12",
           "tags" : "Element,Component",
           "properties" : {
-            "structurizr.dsl.identifier" : "user"
+            "structurizr.dsl.identifier" : "user",
+            "name" : "String",
+            "password" : "String",
+            "email" : "String",
+            "username" : "String"
           },
           "name" : "User",
           "documentation" : { }
         }, {
-          "id" : "13",
+          "id" : "33",
           "tags" : "Element,Component",
           "properties" : {
-            "structurizr.dsl.identifier" : "category"
+            "structurizr.dsl.identifier" : "city",
+            "name" : "Porto Alegre",
+            "uf" : "RS"
+          },
+          "name" : "City",
+          "description" : "Porto Alegre",
+          "documentation" : { }
+        }, {
+          "id" : "22",
+          "tags" : "Element,Component",
+          "properties" : {
+            "structurizr.dsl.identifier" : "category",
+            "name" : "String"
           },
           "name" : "Category",
           "documentation" : { }
         }, {
-          "id" : "15",
+          "id" : "9",
+          "tags" : "Element,Component",
+          "properties" : {
+            "structurizr.dsl.identifier" : "auth"
+          },
+          "name" : "Auth",
+          "documentation" : { }
+        }, {
+          "id" : "27",
           "tags" : "Element,Component",
           "properties" : {
             "structurizr.dsl.identifier" : "notification"
@@ -158,24 +321,59 @@
           "name" : "Notification",
           "documentation" : { }
         }, {
-          "id" : "17",
-          "tags" : "Element,Component",
-          "properties" : {
-            "structurizr.dsl.identifier" : "city",
-            "name" : "Porto Alegre"
-          },
-          "name" : "City",
-          "description" : "Porto Alegre",
-          "documentation" : { }
-        }, {
-          "id" : "9",
+          "id" : "16",
           "tags" : "Element,Component",
           "properties" : {
             "structurizr.dsl.identifier" : "event"
           },
           "name" : "Event",
+          "relationships" : [ {
+            "id" : "38",
+            "tags" : "Relationship",
+            "properties" : {
+              "structurizr.dsl.identifier" : "81d383af-5fa6-4f66-99f9-b347aa16e057"
+            },
+            "sourceId" : "16",
+            "destinationId" : "12",
+            "description" : "users"
+          }, {
+            "id" : "36",
+            "tags" : "Relationship",
+            "properties" : {
+              "structurizr.dsl.identifier" : "a0e4e6be-f890-47d1-ab57-a640fea5e3f6"
+            },
+            "sourceId" : "16",
+            "destinationId" : "33",
+            "description" : "city"
+          }, {
+            "id" : "37",
+            "tags" : "Relationship",
+            "properties" : {
+              "structurizr.dsl.identifier" : "8772d1f1-e19b-4159-8592-1a2b1bdcd6e0"
+            },
+            "sourceId" : "16",
+            "destinationId" : "27",
+            "description" : "notifications"
+          }, {
+            "id" : "35",
+            "tags" : "Relationship",
+            "properties" : {
+              "structurizr.dsl.identifier" : "cbbb6556-54da-4b90-9666-42ba2adc0523"
+            },
+            "sourceId" : "16",
+            "destinationId" : "22",
+            "description" : "category"
+          } ],
           "documentation" : { }
         } ],
+        "documentation" : { }
+      }, {
+        "id" : "39",
+        "tags" : "Element,Container",
+        "properties" : {
+          "structurizr.dsl.identifier" : "database"
+        },
+        "name" : "Database",
         "documentation" : { }
       } ],
       "documentation" : { }
@@ -214,9 +412,9 @@
         "y" : 599
       } ],
       "relationships" : [ {
-        "id" : "12"
+        "id" : "4"
       }, {
-        "id" : "8"
+        "id" : "5"
       } ]
     } ],
     "containerViews" : [ {
@@ -245,28 +443,28 @@
         "x" : 199,
         "y" : 899
       }, {
-        "id" : "4",
-        "x" : 899,
+        "id" : "39",
+        "x" : 1649,
         "y" : 599
       }, {
-        "id" : "19",
-        "x" : 1649,
+        "id" : "6",
+        "x" : 899,
         "y" : 599
       } ],
       "relationships" : [ {
-        "id" : "11"
+        "id" : "40"
       }, {
         "id" : "7"
       }, {
-        "id" : "20"
+        "id" : "8"
       } ]
     } ],
     "componentViews" : [ {
       "key" : "Component-001",
       "order" : 3,
       "dimensions" : {
-        "width" : 1920,
-        "height" : 3211
+        "width" : 2320,
+        "height" : 5522
       },
       "automaticLayout" : {
         "implementation" : "Graphviz",
@@ -276,54 +474,190 @@
         "edgeSeparation" : 0,
         "vertices" : false
       },
-      "containerId" : "4",
+      "containerId" : "6",
       "externalContainerBoundariesVisible" : true,
       "elements" : [ {
+        "id" : "33",
+        "x" : 1650,
+        "y" : 2860
+      }, {
+        "id" : "22",
+        "x" : 1650,
+        "y" : 1660
+      }, {
+        "id" : "12",
+        "x" : 1650,
+        "y" : 3460
+      }, {
         "id" : "1",
-        "x" : 375,
-        "y" : 1069
+        "x" : 200,
+        "y" : 1147
       }, {
         "id" : "2",
-        "x" : 375,
-        "y" : 2569
+        "x" : 200,
+        "y" : 4922
       }, {
-        "id" : "13",
-        "x" : 1075,
-        "y" : 819
+        "id" : "27",
+        "x" : 1650,
+        "y" : 2260
       }, {
-        "id" : "15",
-        "x" : 1075,
-        "y" : 1419
-      }, {
-        "id" : "5",
-        "x" : 1075,
-        "y" : 2619
-      }, {
-        "id" : "17",
-        "x" : 1075,
-        "y" : 2019
+        "id" : "16",
+        "x" : 900,
+        "y" : 2860
       }, {
         "id" : "9",
-        "x" : 1075,
-        "y" : 219
+        "x" : 900,
+        "y" : 3460
       } ],
       "relationships" : [ {
-        "id" : "18",
+        "id" : "32",
         "vertices" : [ {
-          "x" : 971,
-          "y" : 1869
+          "x" : 796,
+          "y" : 4385
+        }, {
+          "x" : 1350,
+          "y" : 3910
+        }, {
+          "x" : 1650,
+          "y" : 2710
         } ]
       }, {
-        "id" : "16"
-      }, {
-        "id" : "14"
-      }, {
-        "id" : "6"
+        "id" : "31",
+        "vertices" : [ {
+          "x" : 1049,
+          "y" : 2000
+        } ]
       }, {
         "id" : "10",
         "vertices" : [ {
-          "x" : 971,
-          "y" : 669
+          "x" : 796,
+          "y" : 3985
+        } ]
+      }, {
+        "id" : "30",
+        "vertices" : [ {
+          "x" : 1225,
+          "y" : 1756
+        } ]
+      }, {
+        "id" : "29",
+        "vertices" : [ {
+          "x" : 962,
+          "y" : 2121
+        } ]
+      }, {
+        "id" : "28",
+        "vertices" : [ {
+          "x" : 1312,
+          "y" : 1635
+        } ]
+      }, {
+        "id" : "26",
+        "vertices" : [ {
+          "x" : 796,
+          "y" : 218
+        }, {
+          "x" : 1350,
+          "y" : 218
+        } ]
+      }, {
+        "id" : "25",
+        "vertices" : [ {
+          "x" : 796,
+          "y" : 518
+        }, {
+          "x" : 1350,
+          "y" : 518
+        } ]
+      }, {
+        "id" : "24",
+        "vertices" : [ {
+          "x" : 796,
+          "y" : 818
+        }, {
+          "x" : 1350,
+          "y" : 818
+        } ]
+      }, {
+        "id" : "23",
+        "vertices" : [ {
+          "x" : 796,
+          "y" : 1118
+        }, {
+          "x" : 1350,
+          "y" : 1118
+        } ]
+      }, {
+        "id" : "21",
+        "vertices" : [ {
+          "x" : 796,
+          "y" : 3310
+        } ]
+      }, {
+        "id" : "20",
+        "vertices" : [ {
+          "x" : 796,
+          "y" : 2185
+        } ]
+      }, {
+        "id" : "18",
+        "vertices" : [ {
+          "x" : 796,
+          "y" : 2785
+        } ]
+      }, {
+        "id" : "17",
+        "vertices" : [ {
+          "x" : 796,
+          "y" : 3085
+        } ]
+      }, {
+        "id" : "15",
+        "vertices" : [ {
+          "x" : 1350,
+          "y" : 4143
+        } ]
+      }, {
+        "id" : "37"
+      }, {
+        "id" : "14",
+        "vertices" : [ {
+          "x" : 1350,
+          "y" : 4443
+        } ]
+      }, {
+        "id" : "36"
+      }, {
+        "id" : "13",
+        "vertices" : [ {
+          "x" : 1350,
+          "y" : 4743
+        } ]
+      }, {
+        "id" : "35",
+        "vertices" : [ {
+          "x" : 1650,
+          "y" : 2110
+        } ]
+      }, {
+        "id" : "34",
+        "vertices" : [ {
+          "x" : 796,
+          "y" : 2081
+        } ]
+      }, {
+        "id" : "11",
+        "vertices" : [ {
+          "x" : 796,
+          "y" : 3310
+        } ]
+      }, {
+        "id" : "38"
+      }, {
+        "id" : "19",
+        "vertices" : [ {
+          "x" : 796,
+          "y" : 2485
         } ]
       } ]
     } ],
@@ -333,7 +667,7 @@
       "themes" : [ "https://static.structurizr.com/themes/default/theme.json" ],
       "terminology" : { },
       "metadataSymbols" : "SquareBrackets",
-      "lastSavedView" : "Container-001"
+      "lastSavedView" : "Component-001"
     }
   }
 }
