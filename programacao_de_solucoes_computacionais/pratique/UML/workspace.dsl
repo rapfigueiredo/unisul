@@ -11,15 +11,40 @@ workspace {
         softwareSystem = softwareSystem "City Event Notification System" "Registration and notification of Events in the City" {
             adminstratorUser -> softwareSystem "manage"
             eventParticipantUser -> softwareSystem "uses"
+            
             consoleapp = container "Console Application" {
                 adminstratorUser -> consoleapp "manage"
                 eventParticipantUser -> consoleapp "uses"
                 
-                auth = component "Auth" {
-                    eventParticipantUser -> this "auth"
-                    adminstratorUser -> this "auth"
+                model = component "Model" {
+                    
                 }
                 
+                view = component "View" {
+                    this -> eventParticipantUser "response"
+                    this -> adminstratorUser "response"
+                }
+                
+                controler = component "Controler" {
+                    eventParticipantUser -> this "request"
+                    adminstratorUser -> this "request"
+                }
+                
+                view -> controler "send"
+                controler -> view "updates"
+                controler -> model "manipuletes"
+                model -> view "updates"
+                
+                
+            }
+            
+            eventapi = container "Event Api" {
+                consoleapp -> this "Uses"
+                adminstratorUser -> this "manage"
+                eventParticipantUser -> this "uses"
+                model -> this "request"
+                this -> model "response"
+      
                 user = component "User"{
                     properties {
                         username "String"
@@ -43,6 +68,7 @@ workspace {
                     
                     
                 }
+                
                 category = component "Category"{
                     properties {
                         name "String"
@@ -73,11 +99,21 @@ workspace {
                 event -> city "city"
                 event -> notification "notifications"
                 event -> user "users"
+            }
+            
+            authapi = container "Auth Api"{
+                auth = component "Auth" {
+                    
+                }
                 
+                consoleapp -> this "validate"
+                eventapi -> this "validate"
+                adminstratorUser -> this "auth"
+                eventParticipantUser -> this "auth"
             }
             
             database = container "Database" {
-                consoleapp -> this "Reads from and writes to"
+                eventapi -> this "Reads from and writes to"
             }
 
         }
@@ -96,6 +132,11 @@ workspace {
         }
         
         component consoleapp {
+            include *
+            autolayout lr
+        }
+        
+         component eventapi {
             include *
             autolayout lr
         }
